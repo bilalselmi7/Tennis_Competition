@@ -1,0 +1,42 @@
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\bin\Debug\Projet Info Année 3.exe.config
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\bin\Debug\Projet Info Année 3.exe
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\bin\Debug\Projet Info Année 3.pdb
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.csprojAssemblyReference.cache
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\MainWindow.g.cs
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\App.g.cs
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3_MarkupCompile.cache
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3_MarkupCompile.lref
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\MainWindow.baml
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.g.resources
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet_Info_Année_3.Properties.Resources.resources
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.csproj.GenerateResource.cache
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.csproj.CoreCompileInputs.cache
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.exe
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.pdb
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\AffichageMembres.g.cs
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\AffichageMembres.baml
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\FenetreAjout.g.cs
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\FenetreModification.g.cs
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\FenetreAjout.baml
+C:\Users\Imade\source\repos\Club_De_Tennis\Projet Info Année 3\obj\Debug\FenetreModification.baml
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\bin\Debug\Projet Info Année 3.exe.config
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\bin\Debug\Projet Info Année 3.exe
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\bin\Debug\Projet Info Année 3.pdb
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.csprojResolveAssemblyReference.cache
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\AffichageMembres.g.cs
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\FenetreAjout.g.cs
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\FenetreModification.g.cs
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\MainWindow.g.cs
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\App.g.cs
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3_MarkupCompile.cache
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3_MarkupCompile.lref
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\AffichageMembres.baml
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\FenetreAjout.baml
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\FenetreModification.baml
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\MainWindow.baml
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.g.resources
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet_Info_Année_3.Properties.Resources.resources
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.csproj.GenerateResource.Cache
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.csproj.CoreCompileInputs.cache
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.exe
+C:\Users\SELMI Bilal\Desktop\Bureau reduit\Club_De_Tennis\Projet Info Année 3\obj\Debug\Projet Info Année 3.pdb
